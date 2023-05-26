@@ -53,4 +53,4 @@ To run the GridX game on your local machine, follow these steps:
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:utkubayguven@gmail.com). We appreciate your interest and support!
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [utkubayguven@gmail.com](utkubayguven@gmail.com). We appreciate your interest and support!
