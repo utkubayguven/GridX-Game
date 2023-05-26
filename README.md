@@ -1,6 +1,6 @@
 # GridX Game
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](grid.png)
 
 ## Table of Contents
 
